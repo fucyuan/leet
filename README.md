@@ -1,2 +1,2 @@
-# leet
+# leetcode
 刷题leetcode
